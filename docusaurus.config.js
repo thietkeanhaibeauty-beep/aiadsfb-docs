@@ -67,9 +67,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'AIadsfb.com',
+        title: 'Climate Resilience International',
         logo: {
-          alt: 'AIadsfb Logo',
+          alt: 'Climate Resilience International Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -87,53 +87,94 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
-            title: 'Tài liệu',
+            title: 'Climate Resilience International',
             items: [
               {
-                label: 'Bắt đầu',
-                to: '/',
+                label: 'IRS Determination — Recognized as a 501(c)(3) public charity. EIN: 931391894',
+                href: '#',
               },
               {
-                label: 'Tính năng',
-                to: '/features/bao-cao-ads',
+                label: 'Address: 125 E BIDWELL ST APT 421, FOLSOM, CA 95630',
+                href: '#',
               },
-            ],
-          },
-          {
-            title: 'Liên hệ',
-            items: [
+              {
+                label: 'Hotline: +1 760 284 9613',
+                href: 'tel:+17602849613',
+              },
               {
                 label: 'Email: mentor@aiadsfb.com',
                 href: 'mailto:mentor@aiadsfb.com',
               },
+            ],
+          },
+          {
+            title: 'SẢN PHẨM',
+            items: [
               {
-                label: 'Hotline: +1 631 990 2897',
-                href: 'tel:+16319902897',
+                label: 'Bảng điều khiển',
+                to: '/',
+              },
+              {
+                label: 'Quảng cáo bài viết',
+                to: '/',
+              },
+              {
+                label: 'Quảng cáo tin nhắn',
+                to: '/',
+              },
+              {
+                label: 'Quy tắc tự động',
+                to: '/',
               },
             ],
           },
           {
-            title: 'Khác',
+            title: 'CÔNG TY',
             items: [
               {
-                label: 'Trang chủ',
-                href: 'https://aiadsfb.com',
+                label: 'Về chúng tôi',
+                href: '#',
               },
               {
-                label: 'Điều khoản',
-                href: 'https://aiadsfb.com/terms',
+                label: 'Blog',
+                href: '#',
               },
               {
-                label: 'Chính sách bảo mật',
-                href: 'https://aiadsfb.com/privacy',
+                label: 'Tuyển dụng',
+                href: '#',
+              },
+              {
+                label: 'Liên hệ',
+                href: 'mailto:mentor@aiadsfb.com',
+              },
+            ],
+          },
+          {
+            title: 'HỖ TRỢ',
+            items: [
+              {
+                label: 'Tài liệu & API',
+                to: '/',
+              },
+              {
+                label: 'Trung tâm trợ giúp',
+                to: '/',
+              },
+              {
+                label: 'Bảng giá',
+                href: '#',
+              },
+              {
+                label: 'Trạng thái hệ thống',
+                href: '#',
               },
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Cantonese Language Teachers Association, Inc. All rights reserved.`,
+        copyright: `© ${new Date().getFullYear()} Climate Resilience International. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
