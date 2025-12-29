@@ -3,13 +3,13 @@ sidebar_position: 1
 slug: /
 ---
 
-# Giới thiệu AIadsfb.com
+# Giới thiệu Climate Resilience International
 
-Chào mừng bạn đến với **AIadsfb.com** - Nền tảng AI Quảng Cáo Tự Động 24/7 dành riêng cho **Spa/Clinic**.
+Chào mừng bạn đến với **Climate Resilience International** - Nền tảng AI Quảng Cáo Tự Động 24/7 dành riêng cho **Spa/Clinic**.
 
-## AIadsfb.com là gì?
+## Climate Resilience International là gì?
 
-AIadsfb.com là nền tảng giúp bạn tự động hóa hoàn toàn quy trình chạy quảng cáo Facebook Ads thông qua AI. Thay vì phải thao tác thủ công trên Ads Manager, bạn chỉ cần chat với AI như đang nhắn tin với một chuyên gia Marketing.
+Climate Resilience International là nền tảng giúp bạn tự động hóa hoàn toàn quy trình chạy quảng cáo Facebook Ads thông qua AI. Thay vì phải thao tác thủ công trên Ads Manager, bạn chỉ cần chat với AI như đang nhắn tin với một chuyên gia Marketing.
 
 ## Tính năng chính
 
@@ -47,6 +47,7 @@ AI: Báo cáo hôm nay:
 
 ## Hỗ trợ
 
+- **IRS Determination:** Recognized as a 501(c)(3) public charity. EIN: 931391894
+- **Address:** 125 E BIDWELL ST APT 421, FOLSOM, CA 95630
+- **Hotline:** +1 760 284 9613
 - **Email:** mentor@aiadsfb.com
-- **Hotline:** +1 631 990 2897
-- **Địa chỉ:** 5098 WILLOW ESTATES, SAN JOSE, CA 95135
