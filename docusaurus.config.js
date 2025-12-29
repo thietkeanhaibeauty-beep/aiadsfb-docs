@@ -98,7 +98,7 @@ const config = {
               },
               {
                 label: 'Tính năng',
-                to: '/category/tinh-nang',
+                to: '/features/bao-cao-ads',
               },
             ],
           },
