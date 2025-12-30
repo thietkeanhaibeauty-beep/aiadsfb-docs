@@ -1,0 +1,86 @@
+{
+  "link.title.Climate Resilience International": {
+    "message": "Climate Resilience International",
+    "description": "The title of the footer links column with title=Climate Resilience International in the footer"
+  },
+  "link.title.SẢN PHẨM": {
+    "message": "PRODUCTS",
+    "description": "The title of the footer links column with title=SẢN PHẨM in the footer"
+  },
+  "link.title.CÔNG TY": {
+    "message": "COMPANY",
+    "description": "The title of the footer links column with title=CÔNG TY in the footer"
+  },
+  "link.title.HỖ TRỢ": {
+    "message": "SUPPORT",
+    "description": "The title of the footer links column with title=HỖ TRỢ in the footer"
+  },
+  "link.item.label.IRS Determination — Recognized as a 501(c)(3) public charity. EIN: 931391894": {
+    "message": "IRS Determination — Recognized as a 501(c)(3) public charity. EIN: 931391894",
+    "description": "The label of footer link with label=IRS Determination — Recognized as a 501(c)(3) public charity. EIN: 931391894 linking to #"
+  },
+  "link.item.label.Address: 125 E BIDWELL ST APT 421, FOLSOM, CA 95630": {
+    "message": "Address: 125 E BIDWELL ST APT 421, FOLSOM, CA 95630",
+    "description": "The label of footer link with label=Address: 125 E BIDWELL ST APT 421, FOLSOM, CA 95630 linking to #"
+  },
+  "link.item.label.Hotline: +1 760 284 9613": {
+    "message": "Hotline: +1 760 284 9613",
+    "description": "The label of footer link with label=Hotline: +1 760 284 9613 linking to tel:+17602849613"
+  },
+  "link.item.label.Email: mentor@aiadsfb.com": {
+    "message": "Email: mentor@aiadsfb.com",
+    "description": "The label of footer link with label=Email: mentor@aiadsfb.com linking to mailto:mentor@aiadsfb.com"
+  },
+  "link.item.label.Bảng điều khiển": {
+    "message": "Dashboard",
+    "description": "The label of footer link with label=Bảng điều khiển linking to /"
+  },
+  "link.item.label.Quảng cáo bài viết": {
+    "message": "Post Advertising",
+    "description": "The label of footer link with label=Quảng cáo bài viết linking to /"
+  },
+  "link.item.label.Quảng cáo tin nhắn": {
+    "message": "Message Advertising",
+    "description": "The label of footer link with label=Quảng cáo tin nhắn linking to /"
+  },
+  "link.item.label.Quy tắc tự động": {
+    "message": "Automation Rules",
+    "description": "The label of footer link with label=Quy tắc tự động linking to /"
+  },
+  "link.item.label.Về chúng tôi": {
+    "message": "About Us",
+    "description": "The label of footer link with label=Về chúng tôi linking to #"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to #"
+  },
+  "link.item.label.Tuyển dụng": {
+    "message": "Careers",
+    "description": "The label of footer link with label=Tuyển dụng linking to #"
+  },
+  "link.item.label.Liên hệ": {
+    "message": "Contact",
+    "description": "The label of footer link with label=Liên hệ linking to mailto:mentor@aiadsfb.com"
+  },
+  "link.item.label.Tài liệu & API": {
+    "message": "Docs & API",
+    "description": "The label of footer link with label=Tài liệu & API linking to /"
+  },
+  "link.item.label.Trung tâm trợ giúp": {
+    "message": "Help Center",
+    "description": "The label of footer link with label=Trung tâm trợ giúp linking to /"
+  },
+  "link.item.label.Bảng giá": {
+    "message": "Pricing",
+    "description": "The label of footer link with label=Bảng giá linking to #"
+  },
+  "link.item.label.Trạng thái hệ thống": {
+    "message": "System Status",
+    "description": "The label of footer link with label=Trạng thái hệ thống linking to #"
+  },
+  "copyright": {
+    "message": "© 2025 Climate Resilience International. All rights reserved.",
+    "description": "The footer copyright"
+  }
+}

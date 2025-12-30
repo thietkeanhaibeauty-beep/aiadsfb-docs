@@ -31,10 +31,20 @@ const config = {
 
   onBrokenLinks: 'throw',
 
-  // Vietnamese localization
+  // Vietnamese + English localization
   i18n: {
     defaultLocale: 'vi',
-    locales: ['vi'],
+    locales: ['vi', 'en'],
+    localeConfigs: {
+      vi: {
+        label: 'Tiếng Việt',
+        htmlLang: 'vi-VN',
+      },
+      en: {
+        label: 'English',
+        htmlLang: 'en-US',
+      },
+    },
   },
 
   presets: [
@@ -82,6 +92,10 @@ const config = {
           {
             href: 'https://aiadsfb.com',
             label: 'Quay lại App',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],

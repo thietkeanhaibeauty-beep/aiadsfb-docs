@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tính năng": {
+    "message": "Features",
+    "description": "The label for category 'Tính năng' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Tính năng.link.generated-index.description": {
+    "message": "All features of Climate Resilience International",
+    "description": "The generated-index page description for category 'Tính năng' in sidebar 'tutorialSidebar'"
+  }
+}
